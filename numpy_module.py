@@ -1,0 +1,1 @@
+print("This module contain numpy library.")
