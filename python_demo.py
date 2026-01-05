@@ -11,3 +11,13 @@ print("Mean of given array:",mean)
 age = 18 #int
 sum = 124.535 #float
 name = "Janvi Parmar" #string etc...
+
+def fibonacci(n):
+    if n == 0:
+        return 0
+    elif n == 1:
+        return 1
+    else:
+        return fibonacci(n-1) + fibonacci(n-2)
+
+print("Fibonacci numbers:",fibonacci(10))
