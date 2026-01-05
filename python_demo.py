@@ -6,8 +6,3 @@ mean = np.mean(a1)
 
 print("Name of Author:", name)
 print("Mean of given array:",mean)
-
-# data types :
-age = 18 #int
-sum = 124.535 #float
-name = "Janvi Parmar" #string etc...
